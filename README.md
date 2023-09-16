@@ -29,7 +29,9 @@
 >
 **Additional feature**
 > Embedded ChatGPT within the application
-> 
+>
+**Demo Video**
+> https://drive.google.com/file/d/1EvSXs4lfSG5bfCu7M9xFWLaT7aORw6US/view?usp=share_link
 # Installation
 ### 1. Install python
 > https://realpython.com/installing-python/
